@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jason-m-garner/frontend-projects-react/precache-manifest.97917982322723637cd5aa97ad743e12.js"
+  "/frontend-projects-react/precache-manifest.61e68022a11930e3cf835f4bc31d352f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jason-m-garner/frontend-projects-react/index.html", {
+workbox.routing.registerNavigationRoute("/frontend-projects-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
