@@ -1,6 +1,6 @@
-# Frontend Projects - React
+<h1 style="display: inline-block; vertical-align: middle;">Frontend Projects</h1> <img src="https://cdn.worldvectorlogo.com/logos/react.svg" height="48px" width="48px" style="display: inline-block; vertical-align: middle; margin: 15px 0 0 4px;"/>
 
-Marketing Landing Page built using React.
+<a href="https://jasonmgarner.dev/frontend-projects-react/" target="_blank">Marketing Landing Page</a> built using React.
 
 ---
 
